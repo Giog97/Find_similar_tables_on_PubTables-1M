@@ -1,5 +1,7 @@
 # Similar Table Search on PubTables-1M
 
+---
+
 ## Description
 This notebook implements a system for analyzing and searching for similar tables in the **PubTables-1M** dataset. It uses XML to extract structural features of tables and compares them based on specific metrics.
 
