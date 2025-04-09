@@ -14,6 +14,9 @@ This notebook implements a system for analyzing and searching for similar tables
 Before running the notebook, make sure you have installed the following libraries:
 ```bash
 pip install numpy
+pip install seaborn
+pip install matplotlib
+pip install scikit-learn
 ```
 
 ## Usage
